@@ -4,3 +4,5 @@ console.log("Hello word")//2nd time
 function main(){
   return null;  
 }
+main()
+// console.log(main)
